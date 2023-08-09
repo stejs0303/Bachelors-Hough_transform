@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/LineDetection">
+        <file>Obrazky/chess1.jpg</file>
+        <file>Obrazky/line_det1.jpg</file>
+        <file>Obrazky/sudoku1024-2.jpg</file>
+    </qresource>
+    <qresource prefix="/CircleDetection">
+        <file>Obrazky/coins.jpg</file>
+        <file>Obrazky/planets_coliding1.jpg</file>
+        <file>Obrazky/space1.jpg</file>
+    </qresource>
+    <qresource prefix="/Generalized">
+        <file>Obrazky/chessFigure1.jpeg</file>
+        <file>Obrazky/chessFigureTemplate1-1.jpg</file>
+        <file>Obrazky/Stop1.jpg</file>
+        <file>Obrazky/StopTemplate1.jpg</file>
+        <file>Obrazky/sudoku400.jpg</file>
+        <file>Obrazky/sudokuSeven-400.jpg</file>
+    </qresource>
+</RCC>
